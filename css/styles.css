@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aliceblue;
+    color: dimgrey;
+}
+main p{
+    padding-left: 30%;
+    width: 40%;
+}
